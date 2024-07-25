@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/csrobot/workspaces/ur_gazebo/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/my_moveit_pkg/lib/python3.10/site-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/ur5_arm_msgs/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/moveit_workspace/install/moveit_py/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/moveit_workspace/install/moveit_msgs/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/moveit_workspace/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/csrobot/workspaces/ur_gazebo/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/my_moveit_pkg/lib/python3.10/site-packages",
+        "/home/csrobot/workspaces/ur_gazebo/install/ur5_arm_msgs/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/moveit_workspace/install/moveit_py/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/moveit_workspace/install/moveit_msgs/local/lib/python3.10/dist-packages",
+        "/home/csrobot/workspaces/moveit_workspace/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
